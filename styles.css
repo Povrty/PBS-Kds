@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif; 
+    background-color: #a3c69d;
+    color: white;
+}
+
+input {
+    font-family: 'Ubuntu', sans-serif; 
+    font-size: 24px;
+    padding-left: 5px;
+}
+
+h1 {
+    font-size: 48px;  
+}
+
+p {
+   font-size: 28px;
+   margin-bottom: 5px;
+}
+
+::placeholder {
+    color: black;
+}
+
+.submit {
+   padding: 20px; 
+}
+
+button {
+    padding: 10px;
+    border: none;
+    background-color: #9da3c6;
+    color: white;
+    font-family: 'Ubuntu', sans-serif; 
+    font-size: 20px;
+}
+
+.error {
+    color: red;
+    font-size: 24px;
+    margin-top: 10px;
+}
